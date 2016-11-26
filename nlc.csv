@@ -1,0 +1,50 @@
+Do you have any products I can buy?,show-products
+Do you have products to show?,show-products
+I want to know if you have list of products,show-products
+show me your products,show-products
+show all products,show-products
+Do you have products for dengue,dengue-assist
+I want to buy dengue assist card,dengue-assist
+buy dengue ,dengue-assist
+I have dengue case,dengue-assist
+I have dengue fever,dengue-assist
+Do you have products for check up,smart-check-up
+I want to avail with ultra sound procedures,smart-check-up
+products for physical exams,smart-check-up
+I want to buy products with physical exams,smart-check-up
+I want to buy products for check ups,smart-check-up
+I want to avail products with pap smear,womens-health
+I want to avail products with ultra sound,womens-health
+I want to avail products with transvaginal,womens-health
+ob gynecology consult,womens-health
+producst specifically for women,womens-health
+cholesterol level,love-heart
+heart activity,love-heart
+electrocardiography,love-heart
+cardio,love-heart
+lipid profile,love-heart
+"I think I have a headache, Muscle, bone and joint pain",disease-dengue
+I am feeling Pain behind my eyes Nausea and vomiting,disease-dengue
+"I am experiencing Rarely, minor bleeding from my gums or nose",disease-dengue
+I have Bleeding from my nose and mouth,disease-dengue
+"I have Severe abdominal pain, Persistent vomiting",disease-dengue
+"I have Swollen lymph glands, mainly on the neck",disease-hiv
+I have oral yeast infection,disease-hiv
+unexplained fatigue,disease-hiv
+white spots on my tongue,disease-hiv
+weight loss,disease-hiv
+I am coughing for more than two weeks,disease-tb
+I am coughing up blood,disease-tb
+I have night sweats,disease-tb
+I have loss of appetite,disease-tb
+I have chest pain when breathing or coughing,disease-tb
+May I know symptoms of dengue?,symptoms-dengue
+Do you know symptoms of dengue?,symptoms-dengue
+List of symptoms of dengue,symptoms-dengue
+dengue symptoms,symptoms-dengue
+show dengue symptoms,symptoms-dengue
+May I know symptoms of tuberculosis?,symptoms-tb
+Do you know symptoms of tuberculosis?,symptoms-tb
+List of symptoms of tuberculosis,symptoms-tb
+tuberculosis symptoms,symptoms-tb
+show tuberculosis symptoms,symptoms-tb
