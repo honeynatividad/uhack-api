@@ -1,0 +1,19 @@
+Philcare Bluemix Account
+User: bluemixadmin@philcare.com.ph
+pwd: ph1lc@r3h3yph1l
+ph1lc@r3yph1l
+
+
+
+dO4wC4eL4fK5oL1nP6gL7xI4vI2tW8bW7wP5sP0gS0oB1sI7dU
+
+0a5e08f0-2d33-4b55-a975-cef4dca393c2
+
+This gives you access to a complete set of physical exams from the best doctors and health providers in PhilCare clinics and selected Hi-Precision clinics.
+
+₱499.00
+
+
+curl -u "9c4f8348-21a6-4240-acdc-a44de7c735da":"TlvSROPpIyFD" -F training_data=@nlc.csv -F training_metadata="{\"language\":\"en\",\"name\":\"healthcare-nlc\"}" "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers"
+
+curl -G -u "9c4f8348-21a6-4240-acdc-a44de7c735da":"TlvSROPpIyFD" "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/8d6efcx126-nlc-912/classify?text=what is the symptoms of dengue"
