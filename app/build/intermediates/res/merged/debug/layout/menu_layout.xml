@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_height="350dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center"
+    android:background="@drawable/shadow">
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:id="@+id/circularImageView"
+        android:layout_centerHorizontal="true"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_launcher"
+        app:civ_border="true"
+        app:civ_border_color="#008444"
+        app:civ_border_width="2dp"
+        app:civ_shadow="true"
+        app:civ_shadow_radius="0" />
+    <TextView
+        android:id="@+id/name"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:layout_below="@+id/circularImageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:textSize="17dp"/>
+<RelativeLayout
+    android:id="@+id/menu"
+    android:layout_below="@id/name"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+   <TextView
+       android:id="@+id/myaccount"
+       android:layout_margin="2dp"
+       android:layout_width="match_parent"
+       android:gravity="center"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="25dp"
+       android:textSize="15dp"
+       android:text="MY ACCOUNT"
+       android:textColor="#008444"
+       />
+    <TextView
+        android:layout_below="@id/myaccount"
+        android:id="@+id/bmi"
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:text="BMI CALCULATOR"
+        android:textColor="#008444"
+        />
+    <TextView
+        android:layout_below="@id/bmi"
+        android:id="@+id/calorie"
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:text="CALORIE CALCULATOR"
+        android:textColor="#008444"
+        />
+    <TextView
+        android:id="@+id/setting"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_margin="2dp"
+        android:layout_height="wrap_content"
+        android:text="SETTING"
+        android:textColor="#008444"
+        android:textSize="15dp"
+        android:layout_below="@+id/calorie"/>
+    <TextView
+        android:id="@+id/logout"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_margin="2dp"
+        android:layout_height="wrap_content"
+        android:text="LOGOUT"
+        android:textColor="#008444"
+        android:textSize="15dp"
+        android:layout_below="@+id/setting"/>
+</RelativeLayout>
+<RelativeLayout
+    android:id="@+id/sub_setting"
+    android:layout_below="@id/name"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:visibility="gone">
+    <TextView
+        android:id="@+id/profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_margin="2dp"
+        android:textColor="#008444"
+        android:textSize="15dp"
+        android:text="Change Profile"/>
+    <TextView
+        android:id="@+id/password"
+        android:layout_below="@+id/profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_margin="2dp"
+        android:textColor="#008444"
+        android:textSize="15dp"
+        android:text="Change Password &amp; Username"/>
+    <ImageView
+        android:id="@+id/go_back"
+        android:layout_below="@+id/password"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/back"/>
+
+</RelativeLayout>
+<RelativeLayout
+    android:id="@+id/changepass"
+    android:layout_below="@+id/name"
+    android:layout_width="match_parent"
+    android:layout_marginRight="20dp"
+    android:layout_marginLeft="20dp"
+    android:layout_height="wrap_content"
+    android:visibility="gone">
+        <TextView
+            android:id="@+id/tv_username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Username"
+            android:textColor="#008444"
+            android:textSize="13dp"/>
+        <EditText
+            android:id="@+id/username"
+            android:layout_below="@+id/tv_username"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:hint="Set new username"
+            android:layout_margin="5dp"
+            android:textSize="12dp"
+            android:textColor="#6d6767"
+            android:gravity="center"
+            android:background="@drawable/shadow"/>
+         <TextView
+            android:id="@+id/tv_password"
+            android:layout_below="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Password"
+             android:textColor="#008444"
+             android:textSize="13dp"/>
+        <EditText
+            android:id="@+id/newpass"
+            android:layout_below="@+id/tv_password"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:hint="Set new password"
+            android:layout_margin="5dp"
+            android:textSize="12dp"
+            android:textColor="#6d6767"
+            android:gravity="center"
+            android:inputType="textPassword"
+            android:background="@drawable/shadow"/>
+        <EditText
+            android:id="@+id/confirmpass"
+            android:layout_below="@+id/newpass"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:hint="Confirm new password"
+            android:layout_margin="5dp"
+            android:textSize="12dp"
+            android:textColor="#6d6767"
+            android:gravity="center"
+            android:inputType="textPassword"
+            android:background="@drawable/shadow"/>
+        <Button
+            android:id="@+id/btn_submit"
+            android:layout_below="@+id/confirmpass"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:text="Submit"
+            android:textSize="15dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/custombutton"
+            android:textColor="@color/white"/>
+        <Button
+            android:id="@+id/btn_cancel"
+            android:layout_below="@+id/confirmpass"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:text="Cancel"
+            android:textSize="15dp"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custombutton"
+            android:textColor="@color/white"/>
+
+</RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\multimedia.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\multimedia.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_state_pressed.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\card_state_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\er_vantage.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\er_vantage.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appicon.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\appicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ervantage40.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\ervantage40.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hphilscreen.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\hphilscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.1\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loa_title.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\loa_title.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custombutton.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\custombutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_button.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.1\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebooklogin.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\facebooklogin.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doctor.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ers.jpg",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\ers.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\oval.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_border.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\textview_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favsicon.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\favsicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heyphilscreen.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\heyphilscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_facebook.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\btn_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\er_shield.jpg",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\er_shield.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\normal.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\brg.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\brg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\dropdown.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heyphil_icon.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\heyphil_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ovalphil.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\ovalphil.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\webview_dialog_title.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\webview_dialog_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\combo.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\combo.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\healthyeatingplate.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\healthyeatingplate.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spot.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.github.d-max\\spots-dialog\\0.4\\res\\drawable\\spot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checks.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\checks.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\microphone.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myacc.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\myacc.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appdialog.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\appdialog.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_a.9.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\bubble_a.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salesman.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\salesman.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_login.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\facebook_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\female.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\female.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\male.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\male.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\erv40.jpg",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\erv40.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heyphil_title.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\heyphil_title.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\erv60.jpg",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\erv60.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.1\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorite.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.1\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signup.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\signup.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\registration_title.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\registration_title.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ershield.jpg",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\ershield.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_button.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\text_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_button_land.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\custom_button_land.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\male_icon.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\male_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heyphilicon.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\heyphilicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gpin.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\gpin.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homepage_button.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\homepage_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\mic.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pdf.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ervantage60.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\ervantage60.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\product.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_chat.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\bubble_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_up_fb.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\sign_up_fb.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heyphil_logo.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\heyphil_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_b.9.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\bubble_b.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\femele_icon.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\femele_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon1.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favicon.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\favicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heyphil_header.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\heyphil_header.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_left.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\shadow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\number.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\number.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_user.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\custom_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\erv80.jpg",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\erv80.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background_selector.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\card_background_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrowdown.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\arrowdown.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\fb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.1\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myrect.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\myrect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar.jpg",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\avatar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user1.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\user1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\agent.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\agent.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\philcarelogo.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\philcarelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\healthvantage_private.png",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\healthvantage_private.png"
+    },
+    {
+        "merged": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector.xml",
+        "source": "C:\\Users\\Hanna\\AndroidStudioProjects\\Heyphil7\\app\\src\\main\\res\\drawable\\selector.xml"
+    }
+]

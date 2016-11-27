@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "588934138821",
+    "project_id": "heyphil-7556"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588934138821:android:33cc091b01ffb1fb",
+        "android_client_info": {
+          "package_name": "com.app.heyphil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYn14ltudo6wJeb88I-BBRpGmrGTAKkLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-85320018-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

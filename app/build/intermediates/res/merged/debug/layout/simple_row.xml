@@ -1,0 +1,11 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rowTextView"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:textSize="16dp"
+    android:gravity="center"
+    android:textColor="#008444"
+    android:background="@drawable/shadow"
+    android:text="Mercaht">
+</TextView>

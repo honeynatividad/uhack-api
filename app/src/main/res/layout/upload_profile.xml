@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center">
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:id="@+id/profile"
+        android:layout_centerHorizontal="true"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/ic_launcher"
+        app:civ_border="true"
+        app:civ_border_color="#008444"
+        app:civ_border_width="2dp"
+        app:civ_shadow="true"
+        app:civ_shadow_radius="0" />
+    <Button
+        android:id="@+id/capture"
+        android:layout_width="150dp"
+        android:background="@drawable/custombutton"
+        android:layout_margin="2dp"
+        android:textColor="@color/white"
+        android:layout_height="wrap_content"
+        android:text="Capture Photo"></Button>
+    <Button
+        android:id="@+id/upload"
+        android:layout_width="150dp"
+        android:background="@drawable/custombutton"
+        android:layout_margin="2dp"
+        android:textColor="@color/white"
+        android:layout_height="wrap_content"
+        android:text="Upload Photo"></Button>
+
+</LinearLayout>

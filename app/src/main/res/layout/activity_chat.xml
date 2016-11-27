@@ -1,0 +1,143 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/heyphil"
+    android:background="@color/white">
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#006600"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="163dp"
+            android:layout_height="50dp"
+            android:textSize="30sp"
+            android:textColor="@color/white"
+            android:background="@drawable/heyphil_header"/>
+        <TextView
+            android:id="@+id/title1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="-10dp"
+            android:textStyle="bold|italic"
+            android:textSize="30dp"
+            android:textColor="@color/white"/>
+
+   <!--     <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="center_horizontal"
+            android:contentDescription="@null"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="5dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/heyphil_title" />-->
+    </LinearLayout>
+    <TextView
+        android:id="@+id/date"
+        android:layout_below="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Day today and Date"
+        android:textSize="14dp"
+        android:layout_marginTop="5dp"
+        android:textColor="#6d6767"
+        android:gravity="center"/>
+
+    <ListView
+        android:layout_below="@+id/date"
+        android:id="@+id/listView"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/logo"
+        android:divider="@null"/>
+    <TextView
+        android:id="@+id/logo"
+        android:layout_width="84dp"
+        android:layout_height="27.5dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_above="@+id/send_message_layout"
+        android:background="@drawable/philcarelogo"/>
+
+    <LinearLayout
+        android:id="@+id/send_message_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/chat_layout"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:transcriptMode="alwaysScroll"
+        android:stackFromBottom="true">
+
+        <EditText
+            android:id="@+id/et_message"
+            android:layout_width="wrap_content"
+            android:layout_height="75dp"
+            android:hint="Type message here..."
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:gravity="top"
+            android:paddingTop="10dp"
+            android:textColor="#6d6767"
+            android:paddingLeft="10dp"
+            android:textSize="15dp"
+            android:imeOptions="actionDone"
+            android:background="@drawable/shadow"/>
+<RelativeLayout
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_width="70dp"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:layout_height="wrap_content">
+        <com.mikhaellopez.circularimageview.CircularImageView
+            android:id="@+id/btn_speak"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/microphone"
+            app:civ_border="true"
+            app:civ_border_color="#008444"
+            app:civ_border_width="2dp"
+            android:layout_marginRight="10dp"
+            app:civ_shadow_radius="0" />
+        <Button
+            android:id="@+id/btn_send"
+            android:layout_marginTop="5dp"
+            android:layout_below="@+id/btn_speak"
+            android:layout_width="70dp"
+            android:gravity="center"
+            android:background="@drawable/custombutton"
+            android:layout_alignParentRight="true"
+            android:layout_height="30dp"
+            android:textColor="@color/white"
+            android:text="Send"
+            android:textSize="15dp"/>
+</RelativeLayout>
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/llMainContainer"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        tools:context=".ChatBubbleActivity"
+        android:orientation="vertical">
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,42 @@
+-keep class com.app.heyphil.AnalyticsApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.app.heyphil.LoginScreen { <init>(); }
+-keep class com.app.heyphil.PreRegister { <init>(); }
+-keep class com.app.heyphil.Registration { <init>(); }
+-keep class com.app.heyphil.UploadProfile { <init>(); }
+-keep class com.app.heyphil.MainActivity { <init>(); }
+-keep class com.app.heyphil.ChatBubbleActivity { <init>(); }
+-keep class com.app.heyphil.MapActivity { <init>(); }
+-keep class com.app.heyphil.CreateLOA { <init>(); }
+-keep class com.app.heyphil.PdfCreator { <init>(); }
+-keep class com.app.heyphil.Pdf_Download { <init>(); }
+-keep class com.app.heyphil.CardReader { <init>(); }
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(); }
+-keep class com.google.android.gms.appinvite.PreviewActivity { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver { <init>(); }
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(); }
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashReceiverService { <init>(); }
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashSenderService { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+-keep class com.google.android.gms.tagmanager.TagManagerService { <init>(); }
+-keep class com.google.android.gms.tagmanager.TagManagerPreviewActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/ibm_admin/Documents/Work/Eclipse_Workspaces/git/toPublish/bms-clientsdk-android-push/lib/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">push</string>
+</resources>
